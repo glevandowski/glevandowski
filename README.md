@@ -28,8 +28,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glevandowski&layout=compact&hide=java" alt="glevandowski"/></p>
-[![]()](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glevandowski&count_private=true&theme=dark&show_icons=true&locale=en" alt="glevandowski" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glevandowski&count_private=true&show_icons=true&locale=en" alt="glevandowski" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glevandowski&" alt="glevandowski" /></p>
