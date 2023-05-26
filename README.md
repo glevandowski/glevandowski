@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Levandowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-levandowski/)](https://www.linkedin.com/in/gustavo-levandowski/) [![Gmail Badge](https://img.shields.io/badge/-gustavolevandowski@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavolevandowski@gmail.com)](mailto:gustavolevandowski@gmail.com) [![Instagram Badge](https://img.shields.io/badge/levandowski.dev-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/levandowski.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Levandowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-levandowski/)](https://www.linkedin.com/in/gustavo-levandowski/) [![Gmail Badge](https://img.shields.io/badge/-gustavolevandowski@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavolevandowski@gmail.com)](mailto:gustavolevandowski@gmail.com) [![Instagram Badge](https://img.shields.io/badge/levandowski.dev-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gustavolevandowski.oficial/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
