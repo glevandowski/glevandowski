@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Levandowski</h1>
+<h1 align="center">Hi 👋, I'm Levandowski (Leva) </h1>
 <h3 align="center">A passionate about technology and innovation from Brazil</h3>
 
 - 💬 **I'm a mobile developer passionate about the entire ecosystem around this technology, with a focus on Android/Kotlin.**
